@@ -23,7 +23,7 @@ export default function Home() {
 
       <section className="container mx-auto">
         <div className="items-center m-8 text-white divide-x grid md:grid-cols-2">
-          <AboutBlock title="ARCH MISSION" desc="The Arch Lunar Art Archive is an extension of the Arch Mission Foundation’s commitment to document and preserve human culture around the solar system.  In 2019, Arch Mission deployed cutting-edge nanotechnology to send the largest library of human civilization into space via lunar lander." type="TYPE" index={"01"} />
+          <AboutBlock title="ARCH MISSION" desc="The Arch Lunar Art Archive is an extension of the Arch Mission Foundation’s commitment to document and preserve human culture around the solar system.  The archive is a collection of recent pieces from contemporary artists preserved using space-grade technology. This preserved collection will be deposited on the surface of the moon via lunar lander, where it is expected to last more than 50 million years. " type="TYPE" index={"01"} />
           <AboutBlock title="BLOCKTAG" type="TYPE1" index={"02"} desc="Blocktag™ technology is used to bring physical objects into digital worlds, and digital items into the physical world. Each artwork showcased in the Arch Lunar Art Archive will be minted as a non-fungible token, or NFT, with Blocktag™ authentication tags used for select artworks with a corresponding print edition.  Deploying these emergent technologies means that each artwork will be registered with a serial id to a blockchain, making all transactions verifiable and cryptographically secure." />
         </div>
 
